@@ -5,7 +5,7 @@ import { SafeAreaView, StyleSheet, Text, View } from 'react-native'
 const App = () => {
   return (
     <SafeAreaView style={styles.root}>
-      <Text style={styles.text}>SharpTech New Mobile Application Project</Text>
+      <Text style={styles.text}>SharpTech New Mobile Applications Project</Text>
     </SafeAreaView>
   )
 }
